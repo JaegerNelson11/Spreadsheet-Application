@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Spreadsheet_Jaeger_Nelson/1.0.0": {
+        "dependencies": {
+          "SpreadsheetEngine": "1.0.0"
+        },
+        "runtime": {
+          "Spreadsheet_Jaeger_Nelson.dll": {}
+        }
+      },
+      "SpreadsheetEngine/1.0.0": {
+        "runtime": {
+          "SpreadsheetEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spreadsheet_Jaeger_Nelson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpreadsheetEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

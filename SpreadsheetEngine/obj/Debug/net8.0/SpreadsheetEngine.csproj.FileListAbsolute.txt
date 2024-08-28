@@ -1,0 +1,11 @@
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.deps.json
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.dll
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\bin\Debug\net8.0\SpreadsheetEngine.pdb
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.dll
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\obj\Debug\net8.0\refint\SpreadsheetEngine.dll
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\obj\Debug\net8.0\SpreadsheetEngine.pdb
+C:\Users\nelso\Desktop\cpts321-hws\Spreadsheet_Jaeger_Nelson\SpreadsheetEngine\obj\Debug\net8.0\ref\SpreadsheetEngine.dll
