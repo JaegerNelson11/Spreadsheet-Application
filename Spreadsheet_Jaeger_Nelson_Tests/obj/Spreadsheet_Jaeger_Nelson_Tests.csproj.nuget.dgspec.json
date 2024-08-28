@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson_Tests\\Spreadsheet_Jaeger_Nelson_Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "projectName": "SpreadsheetEngine",
+        "projectPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\SpreadsheetEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson.csproj",
+        "projectName": "Spreadsheet_Jaeger_Nelson",
+        "projectPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson.csproj",
+        "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+                "projectPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson_Tests\\Spreadsheet_Jaeger_Nelson_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson_Tests\\Spreadsheet_Jaeger_Nelson_Tests.csproj",
+        "projectName": "Spreadsheet_Jaeger_Nelson_Tests",
+        "projectPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson_Tests\\Spreadsheet_Jaeger_Nelson_Tests.csproj",
+        "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nelso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+                "projectPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
+              },
+              "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson.csproj": {
+                "projectPath": "C:\\Users\\nelso\\Desktop\\cpts321-hws\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson\\Spreadsheet_Jaeger_Nelson.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
